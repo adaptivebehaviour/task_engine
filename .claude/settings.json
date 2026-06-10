@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(streamlit:*)",
+      "Bash(pip:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
